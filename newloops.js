@@ -19,7 +19,7 @@ while ( i <= 75 ) {
     console.log("temperature set inside of room", i++)
 }
 
-i = 1 
+i = 10 
 while ( i <= 50 ) {
     console.log("inches for height of stairs in a house", i++)
 }
