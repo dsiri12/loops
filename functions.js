@@ -1,16 +1,11 @@
-
-function myFunction(7, 8) {
-    return 7 * 8;
+function addition(number1, number2, number3) {
+    return number1 + number2 + number3;
 }
 
-function myFunction(6, 4, 8) {
-    return 6 + 4 + 8;
-}
+let x = multiply(5, 7);
 
-let x = myFunction(5, 7);
-
-function myFunction(5, 7) {
-    return 5 * 7;
+function multiply(number1, number2) {
+    return number1 * number2;
 }
 
 function myFunction() {
